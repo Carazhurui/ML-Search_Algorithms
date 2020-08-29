@@ -1,2 +1,2 @@
 # ML-Search_Algorithms
-Programming exercise of COMM7370
+Machine learning exercise of COMM7370
